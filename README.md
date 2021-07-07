@@ -8,6 +8,18 @@
 
 All tips or documents sharing about all the World of WarCraft version.
 
+## 目录导航 / Site Navigation
+
+* `[60-Classic]': 60级经典版本
+
+* `[70-TBC]': 燃烧的远征 / The Burning Crusad
+
+* `[80-WLK]': 巫妖王之怒 / Wrath of the Lich King
+
+* `[85-CTM]': 大地的裂变 / Cataclysm
+
+* `[90-MOP]': 熊猫人之谜 / Mists of Pandaria
+
 ## 更新历史 / ChangeLog
 
 * 11111
