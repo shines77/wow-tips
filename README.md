@@ -11,7 +11,7 @@ All tips or documents sharing about all the World of WarCraft version.
 ## 目录导航 / Site Navigation
 
 
-| 目录/Folder | 等级/Level | 版本名称/Version |
+| 目录 / Folder | 等级 / Level | 版本名称 / Version |
 | :----- | :----: | :---- |
 | [60-Classic] | 60 | 经典版本 / Classic Version
 | [70-TBC] | 70 | 燃烧的远征 / The Burning Crusad
