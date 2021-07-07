@@ -18,6 +18,6 @@ All tips or documents sharing about all the World of WarCraft version.
 
 ## 作者 / Author
 
-怀旧服: 一区-辛迪加-联盟-猎人-司马云信丶
+`怀旧服`: `一区` -- `辛迪加` -- `联盟` -- `猎人` -- `司马云信丶`
 
-正式服: 一区-罗宁-部落-圣骑士-圣骑星矢
+`正式服`: `一区` -- `罗宁` -- `部落` -- `圣骑士` -- `圣骑星矢`
