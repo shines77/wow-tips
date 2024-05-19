@@ -1,0 +1,8 @@
+
+获取 [被摘除的外物] 的图标ID:
+
+/dump GetItemIcon(50348)
+
+[1]=338666
+
+/script DevTools_DumpCommand("Ambiguate('嘉文二世-'..GetRealmName(), 'none')")
